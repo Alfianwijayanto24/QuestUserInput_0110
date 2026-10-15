@@ -68,6 +68,14 @@ fun FormDataDiri(modifier: Modifier){
                         onClick = {
                             textJK = item
                         })
+                    Text(item)
+
+                }
+
+
+            }
+        }
+
 
 
 
